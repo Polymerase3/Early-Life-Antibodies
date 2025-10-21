@@ -1,0 +1,340 @@
+NG_ID	next_id_infant	next_id_mother	FAMILY.x	infant_relations	sibling_number	twin_pair	birth_deliverybirthcard_mode_binary	infant_birthcard_feeding_mode_after_birth	infant_birthcard_med_antibiotics_T195_J01CA_B	mother_birthcard_age_at_delivery	infant_misc_sex	infant_ffq_ever_never_breastfed	birth_birthcard_reg_gestational_age_days	birth_birthcard_reg_gestational_age_weeks	birth_birthcard_reg_gestational_age_week_string	birth_birthcard_reg_source	feedmode_m3	feedmode_m3_txt	baby_birthcard_delivery_mode	Feeding_mode_Birth	mother_health_smoked_one_whole_year_p18	mother_birthcard_parity	birth_deliverybirthcard_place_delivery_simple	FAMILY.y	Timepoint_categorical	infant_ffq_feeding_mode_simple	infant_ffq_feeding_mode_complex	infant_ffq_breastfeeding_freq_weighted	infant_ffq_formula_follow_on_freq_weighted	infant_ffq_stopped_breastfeeding
+C01X032903F9	LLNEXT001964	LLNEXT000622	FAM0329	singleton	no	no	VG	BF	no	27	male	ever_BF	284	40.57142857	40w4d	clinical	NA	NA	vaginal	breastfeeding	yes	1	hospital	FAM0329	M1	excl_BF	BF	NA	NA	no
+C02X032903G1	LLNEXT001964	LLNEXT000622	FAM0329	singleton	no	no	VG	BF	no	27	male	ever_BF	284	40.57142857	40w4d	clinical	NA	NA	vaginal	breastfeeding	yes	1	hospital	FAM0329	M2	excl_BF	BF	NA	NA	no
+C09F032903G4	LLNEXT001964	LLNEXT000622	FAM0329	singleton	no	no	VG	BF	no	27	male	ever_BF	284	40.57142857	40w4d	clinical	NA	NA	vaginal	breastfeeding	yes	1	hospital	FAM0329	M9	NA	MF	5	0.86	no
+C06X032903G3	LLNEXT001964	LLNEXT000622	FAM0329	singleton	no	no	VG	BF	no	27	male	ever_BF	284	40.57142857	40w4d	clinical	NA	NA	vaginal	breastfeeding	yes	1	hospital	FAM0329	M6	excl_BF	BF	5	0	no
+C12F032903G5	LLNEXT001964	LLNEXT000622	FAM0329	singleton	no	no	VG	BF	no	27	male	ever_BF	284	40.57142857	40w4d	clinical	NA	NA	vaginal	breastfeeding	yes	1	hospital	FAM0329	M12	NA	MF	5	0.14	NA
+C03X032903G2	LLNEXT001964	LLNEXT000622	FAM0329	singleton	no	no	VG	BF	no	27	male	ever_BF	284	40.57142857	40w4d	clinical	NA	NA	vaginal	breastfeeding	yes	1	hospital	FAM0329	M3	NA	NA	NA	NA	no
+C09F040527B9	LLNEXT002738	LLNEXT001261	FAM0405	singleton	no	no	VG	BF	no	29	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	1	hospital	FAM0405	M9	NA	NA	NA	NA	NA
+C12F040527B8	LLNEXT002738	LLNEXT001261	FAM0405	singleton	no	no	VG	BF	no	29	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	1	hospital	FAM0405	M12	NA	NA	NA	NA	NA
+C06F040527C1	LLNEXT002738	LLNEXT001261	FAM0405	singleton	no	no	VG	BF	no	29	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	1	hospital	FAM0405	M6	NA	NA	NA	NA	NA
+C01X024703H6	LLNEXT003043	LLNEXT000983	FAM0247	singleton	no	no	CS	BF	no	37	male	ever_BF	285	40.71428571	40w5d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	0	hospital	FAM0247	M1	NA	NA	NA	NA	no
+C12F024703H9	LLNEXT003043	LLNEXT000983	FAM0247	singleton	no	no	CS	BF	no	37	male	ever_BF	285	40.71428571	40w5d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	0	hospital	FAM0247	M12	NA	NA	NA	NA	NA
+C09F017303I4	LLNEXT003052	LLNEXT000785	FAM0173	singleton	no	no	CS	NA	no	36	male	ever_BF	285	40.71428571	40w5d	clinical	FF/BF		emergency_ceasarian_section	NA	yes	1	hospital	FAM0173	M12	NA	NA	NA	NA	NA
+C01F017303I1	LLNEXT003052	LLNEXT000785	FAM0173	singleton	no	no	CS	NA	no	36	male	ever_BF	285	40.71428571	40w5d	clinical	FF/BF		emergency_ceasarian_section	NA	yes	1	hospital	FAM0173	M1	NA	NA	NA	NA	NA
+C03F017303I3	LLNEXT003052	LLNEXT000785	FAM0173	singleton	no	no	CS	NA	no	36	male	ever_BF	285	40.71428571	40w5d	clinical	FF/BF		emergency_ceasarian_section	NA	yes	1	hospital	FAM0173	M3	NA	MF	NA	NA	NA
+C02F017303I2	LLNEXT003052	LLNEXT000785	FAM0173	singleton	no	no	CS	NA	no	36	male	ever_BF	285	40.71428571	40w5d	clinical	FF/BF		emergency_ceasarian_section	NA	yes	1	hospital	FAM0173	M2	NA	MF	NA	NA	NA
+C01F013204B3	LLNEXT003269	LLNEXT000145	FAM0132	singleton	sibling_1	no	VG	BF	NA	34	male	ever_BF	262	37.42857143	37w3d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0132	M1	excl_BF	BF	NA	NA	no
+C03F013204B5	LLNEXT003269	LLNEXT000145	FAM0132	singleton	sibling_1	no	VG	BF	NA	34	male	ever_BF	262	37.42857143	37w3d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0132	M3	excl_BF	BF	NA	NA	no
+C12F013204B8	LLNEXT003269	LLNEXT000145	FAM0132	singleton	sibling_1	no	VG	BF	NA	34	male	ever_BF	262	37.42857143	37w3d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0132	M12	excl_FF	FF	0	1	NA
+C09F013204B7	LLNEXT003269	LLNEXT000145	FAM0132	singleton	sibling_1	no	VG	BF	NA	34	male	ever_BF	262	37.42857143	37w3d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0132	M9	excl_BF	BF	5	0	no
+C06F013204B6	LLNEXT003269	LLNEXT000145	FAM0132	singleton	sibling_1	no	VG	BF	NA	34	male	ever_BF	262	37.42857143	37w3d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0132	M6	NA	NA	NA	NA	no
+C02F013204B4	LLNEXT003269	LLNEXT000145	FAM0132	singleton	sibling_1	no	VG	BF	NA	34	male	ever_BF	262	37.42857143	37w3d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0132	M2	excl_BF	BF	NA	NA	no
+C09X012804F1	LLNEXT003700	LLNEXT001568	FAM0128	singleton	no	no	VG	NA	NA	33	male	never_BF	279	39.85714286	39w6d	self-reported	NA	NA	NA	NA	yes	NA	home	FAM0128	M9	NA	NA	NA	NA	never_BF
+C06X012804E9	LLNEXT003700	LLNEXT001568	FAM0128	singleton	no	no	VG	NA	NA	33	male	never_BF	279	39.85714286	39w6d	self-reported	NA	NA	NA	NA	yes	NA	home	FAM0128	M6	excl_FF	FF	0	1	never_BF
+C12X012804F2	LLNEXT003700	LLNEXT001568	FAM0128	singleton	no	no	VG	NA	NA	33	male	never_BF	279	39.85714286	39w6d	self-reported	NA	NA	NA	NA	yes	NA	home	FAM0128	M12	NA	NA	NA	NA	NA
+C02X01282E08	LLNEXT003700	LLNEXT001568	FAM0128	singleton	no	no	VG	NA	NA	33	male	never_BF	279	39.85714286	39w6d	self-reported	NA	NA	NA	NA	yes	NA	home	FAM0128	M2	excl_FF	FF	NA	NA	never_BF
+C03X01283D08	LLNEXT003700	LLNEXT001568	FAM0128	singleton	no	no	VG	NA	NA	33	male	never_BF	279	39.85714286	39w6d	self-reported	NA	NA	NA	NA	yes	NA	home	FAM0128	M3	excl_FF	FF	NA	NA	never_BF
+C01X01283A04	LLNEXT003700	LLNEXT001568	FAM0128	singleton	no	no	VG	NA	NA	33	male	never_BF	279	39.85714286	39w6d	self-reported	NA	NA	NA	NA	yes	NA	home	FAM0128	M1	excl_FF	FF	NA	NA	never_BF
+C01F025104F9	LLNEXT003926	LLNEXT001559	FAM0251	singleton	no	no	CS	FF	no	30	female	never_BF	275	39.28571429	39w2d	clinical	FF		planned_ceasarian_section	formula	yes	1	hospital	FAM0251	M1	excl_FF	FF	NA	NA	never_BF
+C09F025104G4	LLNEXT003926	LLNEXT001559	FAM0251	singleton	no	no	CS	FF	no	30	female	never_BF	275	39.28571429	39w2d	clinical	FF		planned_ceasarian_section	formula	yes	1	hospital	FAM0251	M9	excl_FF	FF	0	1	never_BF
+C03F025104G2	LLNEXT003926	LLNEXT001559	FAM0251	singleton	no	no	CS	FF	no	30	female	never_BF	275	39.28571429	39w2d	clinical	FF		planned_ceasarian_section	formula	yes	1	hospital	FAM0251	M3	excl_FF	FF	NA	NA	never_BF
+C12F025104G5	LLNEXT003926	LLNEXT001559	FAM0251	singleton	no	no	CS	FF	no	30	female	never_BF	275	39.28571429	39w2d	clinical	FF		planned_ceasarian_section	formula	yes	1	hospital	FAM0251	M12	excl_FF	FF	0	1	NA
+C06F025104G3	LLNEXT003926	LLNEXT001559	FAM0251	singleton	no	no	CS	FF	no	30	female	never_BF	275	39.28571429	39w2d	clinical	FF		planned_ceasarian_section	formula	yes	1	hospital	FAM0251	M6	excl_FF	FF	0	1	never_BF
+C03F033505A2	LLNEXT004079	LLNEXT001586	FAM0335	singleton	no	no	CS	FF	NA	36	female	never_BF	251	35.85714286	35w6d	clinical	NA	NA	emergency_ceasarian_section	formula	yes	0	hospital	FAM0335	M3	excl_FF	FF	NA	NA	never_BF
+C09F033505A3	LLNEXT004079	LLNEXT001586	FAM0335	singleton	no	no	CS	FF	NA	36	female	never_BF	251	35.85714286	35w6d	clinical	NA	NA	emergency_ceasarian_section	formula	yes	0	hospital	FAM0335	M9	NA	NA	NA	NA	never_BF
+C12F033505A4	LLNEXT004079	LLNEXT001586	FAM0335	singleton	no	no	CS	FF	NA	36	female	never_BF	251	35.85714286	35w6d	clinical	NA	NA	emergency_ceasarian_section	formula	yes	0	hospital	FAM0335	M12	NA	NA	NA	NA	NA
+C01X033504I9	LLNEXT004079	LLNEXT001586	FAM0335	singleton	no	no	CS	FF	NA	36	female	never_BF	251	35.85714286	35w6d	clinical	NA	NA	emergency_ceasarian_section	formula	yes	0	hospital	FAM0335	M1	excl_FF	FF	NA	NA	never_BF
+C02F033505A1	LLNEXT004079	LLNEXT001586	FAM0335	singleton	no	no	CS	FF	NA	36	female	never_BF	251	35.85714286	35w6d	clinical	NA	NA	emergency_ceasarian_section	formula	yes	0	hospital	FAM0335	M2	excl_FF	FF	NA	NA	never_BF
+C03X01123E07	LLNEXT004213	LLNEXT003520	FAM0112	singleton	no	no	VG	NA	NA	34	male	ever_BF	286	40.85714286	40w6d	self-reported	BF		NA	NA	NA	NA	home	FAM0112	M3	excl_BF	BF	NA	NA	no
+C01X01123C01	LLNEXT004213	LLNEXT003520	FAM0112	singleton	no	no	VG	NA	NA	34	male	ever_BF	286	40.85714286	40w6d	self-reported	BF		NA	NA	NA	NA	home	FAM0112	M1	excl_BF	BF	NA	NA	no
+C12X011205C3	LLNEXT004213	LLNEXT003520	FAM0112	singleton	no	no	VG	NA	NA	34	male	ever_BF	286	40.85714286	40w6d	self-reported	BF		NA	NA	NA	NA	home	FAM0112	M12	NA	NA	NA	NA	NA
+C09X011205C2	LLNEXT004213	LLNEXT003520	FAM0112	singleton	no	no	VG	NA	NA	34	male	ever_BF	286	40.85714286	40w6d	self-reported	BF		NA	NA	NA	NA	home	FAM0112	M9	NA	MF	2	1	yes
+C02X01123F06	LLNEXT004213	LLNEXT003520	FAM0112	singleton	no	no	VG	NA	NA	34	male	ever_BF	286	40.85714286	40w6d	self-reported	BF		NA	NA	NA	NA	home	FAM0112	M2	excl_BF	BF	NA	NA	no
+C06X011205C1	LLNEXT004213	LLNEXT003520	FAM0112	singleton	no	no	VG	NA	NA	34	male	ever_BF	286	40.85714286	40w6d	self-reported	BF		NA	NA	NA	NA	home	FAM0112	M6	NA	MF	5	0.04	no
+C09F042330E2	LLNEXT004286	LLNEXT001630	FAM0423	singleton	sibling_1	no	CS	BF	no	32	male	ever_BF	290	41.42857143	41w3d	clinical	BF		emergency_ceasarian_section	breastfeeding	NA	0	hospital	FAM0423	M9	excl_BF	BF	5	0	no
+C01X013805H1	LLNEXT004547	LLNEXT003511	FAM0138	singleton	no	no	VG	BF	NA	36	male	ever_BF	242	34.57142857	34w4d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0138	M1	excl_BF	BF	NA	NA	no
+C12F013805H6	LLNEXT004547	LLNEXT003511	FAM0138	singleton	no	no	VG	BF	NA	36	male	ever_BF	242	34.57142857	34w4d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0138	M12	excl_FF	FF	0	0.09	NA
+C02X013805H2	LLNEXT004547	LLNEXT003511	FAM0138	singleton	no	no	VG	BF	NA	36	male	ever_BF	242	34.57142857	34w4d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0138	M2	excl_BF	BF	NA	NA	no
+C06F013805H4	LLNEXT004547	LLNEXT003511	FAM0138	singleton	no	no	VG	BF	NA	36	male	ever_BF	242	34.57142857	34w4d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0138	M6	NA	MF	5	0.04	no
+C09F013805H5	LLNEXT004547	LLNEXT003511	FAM0138	singleton	no	no	VG	BF	NA	36	male	ever_BF	242	34.57142857	34w4d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0138	M9	excl_FF	FF	0	1	yes
+C03X013805H3	LLNEXT004547	LLNEXT003511	FAM0138	singleton	no	no	VG	BF	NA	36	male	ever_BF	242	34.57142857	34w4d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0138	M3	excl_BF	BF	NA	NA	no
+C09F001706B5	LLNEXT004754	LLNEXT003421	FAM0017	singleton	sibling_1	no	VG	NA	NA	31	male	ever_BF	263	37.57142857	37w4d	clinical	BF		NA	NA	yes	0	home	FAM0017	M9	excl_FF	FF	0	1	yes
+C06F001706B4	LLNEXT004754	LLNEXT003421	FAM0017	singleton	sibling_1	no	VG	NA	NA	31	male	ever_BF	263	37.57142857	37w4d	clinical	BF		NA	NA	yes	0	home	FAM0017	M6	NA	MF	3	1	no
+C12F001706B6	LLNEXT004754	LLNEXT003421	FAM0017	singleton	sibling_1	no	VG	NA	NA	31	male	ever_BF	263	37.57142857	37w4d	clinical	BF		NA	NA	yes	0	home	FAM0017	M12	excl_FF	FF	0	1	NA
+C03F001706B3	LLNEXT004754	LLNEXT003421	FAM0017	singleton	sibling_1	no	VG	NA	NA	31	male	ever_BF	263	37.57142857	37w4d	clinical	BF		NA	NA	yes	0	home	FAM0017	M3	excl_BF	BF	NA	NA	no
+C01F001706B1	LLNEXT004754	LLNEXT003421	FAM0017	singleton	sibling_1	no	VG	NA	NA	31	male	ever_BF	263	37.57142857	37w4d	clinical	BF		NA	NA	yes	0	home	FAM0017	M1	excl_BF	BF	NA	NA	no
+C02X001706B2	LLNEXT004754	LLNEXT003421	FAM0017	singleton	sibling_1	no	VG	NA	NA	31	male	ever_BF	263	37.57142857	37w4d	clinical	BF		NA	NA	yes	0	home	FAM0017	M2	excl_BF	BF	NA	NA	no
+C03X012606F7	LLNEXT005159	LLNEXT003728	FAM0126	singleton	no	no	VG	MF	NA	35	female	ever_BF	269	38.42857143	38w3d	clinical	BF		vaginal	mixed	yes	1	hospital	FAM0126	M3	excl_BF	BF	NA	NA	no
+C09F012606F9	LLNEXT005159	LLNEXT003728	FAM0126	singleton	no	no	VG	MF	NA	35	female	ever_BF	269	38.42857143	38w3d	clinical	BF		vaginal	mixed	yes	1	hospital	FAM0126	M9	NA	MF	4	1	yes
+C06F012606F8	LLNEXT005159	LLNEXT003728	FAM0126	singleton	no	no	VG	MF	NA	35	female	ever_BF	269	38.42857143	38w3d	clinical	BF		vaginal	mixed	yes	1	hospital	FAM0126	M6	NA	MF	5	0.09	no
+C12F012606G1	LLNEXT005159	LLNEXT003728	FAM0126	singleton	no	no	VG	MF	NA	35	female	ever_BF	269	38.42857143	38w3d	clinical	BF		vaginal	mixed	yes	1	hospital	FAM0126	M12	NA	NA	NA	NA	NA
+C01X012606F5	LLNEXT005159	LLNEXT003728	FAM0126	singleton	no	no	VG	MF	NA	35	female	ever_BF	269	38.42857143	38w3d	clinical	BF		vaginal	mixed	yes	1	hospital	FAM0126	M1	excl_BF	BF	NA	NA	no
+C02X012606F6	LLNEXT005159	LLNEXT003728	FAM0126	singleton	no	no	VG	MF	NA	35	female	ever_BF	269	38.42857143	38w3d	clinical	BF		vaginal	mixed	yes	1	hospital	FAM0126	M2	excl_BF	BF	NA	NA	no
+C03F041328H4	LLNEXT005195	LLNEXT003836	FAM0413	singleton	no	no	VG	BF	no	38	male	ever_BF	280	40	40w0d	clinical	NA	NA	vaginal	breastfeeding	NA	1	hospital	FAM0413	M3	NA	NA	NA	NA	no
+C12F041333C2	LLNEXT005195	LLNEXT003836	FAM0413	singleton	no	no	VG	BF	no	38	male	ever_BF	280	40	40w0d	clinical	NA	NA	vaginal	breastfeeding	NA	1	hospital	FAM0413	M12	NA	NA	NA	NA	NA
+C01X042906H5	LLNEXT005348	LLNEXT003962	FAM0429	singleton	sibling_1	no	VG	BF	no	24	female	ever_BF	285	40.71428571	40w5d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0429	M1	excl_BF	BF	NA	NA	no
+C12F042906I1	LLNEXT005348	LLNEXT003962	FAM0429	singleton	sibling_1	no	VG	BF	no	24	female	ever_BF	285	40.71428571	40w5d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0429	M12	excl_FF	FF	0	1	NA
+C09F042906H9	LLNEXT005348	LLNEXT003962	FAM0429	singleton	sibling_1	no	VG	BF	no	24	female	ever_BF	285	40.71428571	40w5d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0429	M9	NA	MF	2	0.86	yes
+C03F042906H7	LLNEXT005348	LLNEXT003962	FAM0429	singleton	sibling_1	no	VG	BF	no	24	female	ever_BF	285	40.71428571	40w5d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0429	M3	excl_BF	BF	NA	NA	no
+C02F042906H6	LLNEXT005348	LLNEXT003962	FAM0429	singleton	sibling_1	no	VG	BF	no	24	female	ever_BF	285	40.71428571	40w5d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0429	M2	excl_BF	BF	NA	NA	no
+C06X042906H8	LLNEXT005348	LLNEXT003962	FAM0429	singleton	sibling_1	no	VG	BF	no	24	female	ever_BF	285	40.71428571	40w5d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0429	M6	excl_BF	BF	5	0	no
+C09X025402G5	LLNEXT005384	LLNEXT003980	FAM0254	singleton	no	no	VG	BF	no	34	male	ever_BF	287	41	41w0d	clinical	BF		vaginal	breastfeeding	NA	2	hospital	FAM0254	M9	NA	MF	5	0.04	yes
+C02F025406I3	LLNEXT005384	LLNEXT003980	FAM0254	singleton	no	no	VG	BF	no	34	male	ever_BF	287	41	41w0d	clinical	BF		vaginal	breastfeeding	NA	2	hospital	FAM0254	M2	excl_BF	BF	NA	NA	no
+C03F025406I4	LLNEXT005384	LLNEXT003980	FAM0254	singleton	no	no	VG	BF	no	34	male	ever_BF	287	41	41w0d	clinical	BF		vaginal	breastfeeding	NA	2	hospital	FAM0254	M3	excl_BF	BF	NA	NA	no
+C06X025402G4	LLNEXT005384	LLNEXT003980	FAM0254	singleton	no	no	VG	BF	no	34	male	ever_BF	287	41	41w0d	clinical	BF		vaginal	breastfeeding	NA	2	hospital	FAM0254	M6	NA	NA	NA	NA	no
+C01F025406I2	LLNEXT005384	LLNEXT003980	FAM0254	singleton	no	no	VG	BF	no	34	male	ever_BF	287	41	41w0d	clinical	BF		vaginal	breastfeeding	NA	2	hospital	FAM0254	M1	excl_BF	BF	NA	NA	no
+C12X025402G6	LLNEXT005384	LLNEXT003980	FAM0254	singleton	no	no	VG	BF	no	34	male	ever_BF	287	41	41w0d	clinical	BF		vaginal	breastfeeding	NA	2	hospital	FAM0254	M12	NA	NA	NA	NA	NA
+C12X018903A1	LLNEXT005573	LLNEXT004565	FAM0189	singleton	no	no	VG	BF	no	32	male	ever_BF	283	40.42857143	40w3d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0189	M12	excl_BF	BF	5	0	NA
+C03F018907A4	LLNEXT005573	LLNEXT004565	FAM0189	singleton	no	no	VG	BF	no	32	male	ever_BF	283	40.42857143	40w3d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0189	M3	excl_BF	BF	NA	NA	no
+C06X018902I8	LLNEXT005573	LLNEXT004565	FAM0189	singleton	no	no	VG	BF	no	32	male	ever_BF	283	40.42857143	40w3d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0189	M6	excl_BF	BF	5	0	no
+C02F018907A3	LLNEXT005573	LLNEXT004565	FAM0189	singleton	no	no	VG	BF	no	32	male	ever_BF	283	40.42857143	40w3d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0189	M2	excl_BF	BF	NA	NA	no
+C01F018907A2	LLNEXT005573	LLNEXT004565	FAM0189	singleton	no	no	VG	BF	no	32	male	ever_BF	283	40.42857143	40w3d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0189	M1	excl_BF	BF	NA	NA	no
+C09X018902I9	LLNEXT005573	LLNEXT004565	FAM0189	singleton	no	no	VG	BF	no	32	male	ever_BF	283	40.42857143	40w3d	clinical	BF		vaginal	breastfeeding	yes	1	hospital	FAM0189	M9	excl_BF	BF	5	0	no
+C01F024907A8	LLNEXT005618	LLNEXT005258	FAM0249	singleton	sibling_1	no	VG	MF	no	37	female	ever_BF	266	38	38w0d	clinical	NA	NA	vaginal	mixed	NA	0	hospital	FAM0249	M1	NA	NA	NA	NA	no
+C03F024907B1	LLNEXT005618	LLNEXT005258	FAM0249	singleton	sibling_1	no	VG	MF	no	37	female	ever_BF	266	38	38w0d	clinical	NA	NA	vaginal	mixed	NA	0	hospital	FAM0249	M3	NA	NA	NA	NA	yes
+C12X024903A5	LLNEXT005618	LLNEXT005258	FAM0249	singleton	sibling_1	no	VG	MF	no	37	female	ever_BF	266	38	38w0d	clinical	NA	NA	vaginal	mixed	NA	0	hospital	FAM0249	M12	excl_FF	FF	0	1	NA
+C02F024907A9	LLNEXT005618	LLNEXT005258	FAM0249	singleton	sibling_1	no	VG	MF	no	37	female	ever_BF	266	38	38w0d	clinical	NA	NA	vaginal	mixed	NA	0	hospital	FAM0249	M2	NA	NA	NA	NA	no
+C09F022710G1	LLNEXT005636	LLNEXT005483	FAM0227	singleton	sibling_1	no	VG	BF	no	31	male	ever_BF	291	41.57142857	41w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0227	M9	NA	NA	NA	NA	yes
+C12F022710G2	LLNEXT005636	LLNEXT005483	FAM0227	singleton	sibling_1	no	VG	BF	no	31	male	ever_BF	291	41.57142857	41w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0227	M12	NA	NA	NA	NA	NA
+C06F022710F9	LLNEXT005636	LLNEXT005483	FAM0227	singleton	sibling_1	no	VG	BF	no	31	male	ever_BF	291	41.57142857	41w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0227	M6	NA	MF	3	0.57	yes
+C01F022732D6	LLNEXT005636	LLNEXT005483	FAM0227	singleton	sibling_1	no	VG	BF	no	31	male	ever_BF	291	41.57142857	41w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0227	M1	excl_BF	BF	NA	NA	no
+C02F022732D5	LLNEXT005636	LLNEXT005483	FAM0227	singleton	sibling_1	no	VG	BF	no	31	male	ever_BF	291	41.57142857	41w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0227	M2	excl_BF	BF	NA	NA	no
+C03F022732D4	LLNEXT005636	LLNEXT005483	FAM0227	singleton	sibling_1	no	VG	BF	no	31	male	ever_BF	291	41.57142857	41w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0227	M3	NA	NA	NA	NA	no
+C02F028307B9	LLNEXT005663	LLNEXT005320	FAM0283	singleton	no	no	CS	FF	no	41	male	never_BF	268	38.28571429	38w2d	clinical	FF		emergency_ceasarian_section	formula	yes	0	hospital	FAM0283	M2	excl_FF	FF	NA	NA	never_BF
+C09X028303B3	LLNEXT005663	LLNEXT005320	FAM0283	singleton	no	no	CS	FF	no	41	male	never_BF	268	38.28571429	38w2d	clinical	FF		emergency_ceasarian_section	formula	yes	0	hospital	FAM0283	M9	excl_FF	FF	0	1	never_BF
+C01F028307B8	LLNEXT005663	LLNEXT005320	FAM0283	singleton	no	no	CS	FF	no	41	male	never_BF	268	38.28571429	38w2d	clinical	FF		emergency_ceasarian_section	formula	yes	0	hospital	FAM0283	M1	excl_FF	FF	NA	NA	never_BF
+C03F028307C1	LLNEXT005663	LLNEXT005320	FAM0283	singleton	no	no	CS	FF	no	41	male	never_BF	268	38.28571429	38w2d	clinical	FF		emergency_ceasarian_section	formula	yes	0	hospital	FAM0283	M3	excl_FF	FF	NA	NA	never_BF
+C06F028307C2	LLNEXT005663	LLNEXT005320	FAM0283	singleton	no	no	CS	FF	no	41	male	never_BF	268	38.28571429	38w2d	clinical	FF		emergency_ceasarian_section	formula	yes	0	hospital	FAM0283	M6	excl_FF	FF	0	1	never_BF
+C12X028303B4	LLNEXT005663	LLNEXT005320	FAM0283	singleton	no	no	CS	FF	no	41	male	never_BF	268	38.28571429	38w2d	clinical	FF		emergency_ceasarian_section	formula	yes	0	hospital	FAM0283	M12	NA	NA	NA	NA	NA
+C01X014307D9	LLNEXT005825	LLNEXT004600	FAM0143	singleton	sibling_1	no	VG	BF	no	29	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM0143	M1	excl_BF	BF	NA	NA	no
+C12X014303C8	LLNEXT005825	LLNEXT004600	FAM0143	singleton	sibling_1	no	VG	BF	no	29	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM0143	M12	excl_FF	FF	0	1	NA
+C06F014303C6	LLNEXT005825	LLNEXT004600	FAM0143	singleton	sibling_1	no	VG	BF	no	29	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM0143	M6	NA	NA	NA	NA	yes
+C03X014307E2	LLNEXT005825	LLNEXT004600	FAM0143	singleton	sibling_1	no	VG	BF	no	29	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM0143	M3	excl_BF	BF	NA	NA	no
+C09X014303C7	LLNEXT005825	LLNEXT004600	FAM0143	singleton	sibling_1	no	VG	BF	no	29	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM0143	M9	NA	NA	NA	NA	yes
+C02X014307E1	LLNEXT005825	LLNEXT004600	FAM0143	singleton	sibling_1	no	VG	BF	no	29	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM0143	M2	excl_BF	BF	NA	NA	no
+C02X016307G6	LLNEXT006842	LLNEXT005050	FAM0163	singleton	no	no	VG	BF	no	31	male	ever_BF	277	39.57142857	39w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0163	M2	excl_FF	FF	NA	NA	yes
+C09X016303E7	LLNEXT006842	LLNEXT005050	FAM0163	singleton	no	no	VG	BF	no	31	male	ever_BF	277	39.57142857	39w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0163	M9	excl_FF	FF	0	1	yes
+C06X016303E6	LLNEXT006842	LLNEXT005050	FAM0163	singleton	no	no	VG	BF	no	31	male	ever_BF	277	39.57142857	39w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0163	M6	NA	NA	NA	NA	yes
+C12X016303E8	LLNEXT006842	LLNEXT005050	FAM0163	singleton	no	no	VG	BF	no	31	male	ever_BF	277	39.57142857	39w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0163	M12	NA	NA	NA	NA	NA
+C01X016307G5	LLNEXT006842	LLNEXT005050	FAM0163	singleton	no	no	VG	BF	no	31	male	ever_BF	277	39.57142857	39w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0163	M1	excl_FF	FF	NA	NA	yes
+C03X016307G7	LLNEXT006842	LLNEXT005050	FAM0163	singleton	no	no	VG	BF	no	31	male	ever_BF	277	39.57142857	39w4d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0163	M3	excl_FF	FF	NA	NA	yes
+C03X041119D9	LLNEXT006905	LLNEXT006365	FAM0411	singleton	no	no	VG	BF	no	31	female	ever_BF	267	38.14285714	38w1d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0411	M3	excl_BF	BF	NA	NA	no
+C12F041109H4	LLNEXT006905	LLNEXT006365	FAM0411	singleton	no	no	VG	BF	no	31	female	ever_BF	267	38.14285714	38w1d	clinical	BF		vaginal	breastfeeding	yes	0	hospital	FAM0411	M12	NA	NA	NA	NA	NA
+C01F032407G8	LLNEXT006914	LLNEXT004006	FAM0324	singleton	no	no	VG	NA	NA	34	female	ever_BF	271	38.71428571	38w5d	self-reported	NA	NA	NA	NA	NA	NA	hospital	FAM0324	M2	excl_BF	BF	NA	NA	no
+C09F032407H3	LLNEXT006914	LLNEXT004006	FAM0324	singleton	no	no	VG	NA	NA	34	female	ever_BF	271	38.71428571	38w5d	self-reported	NA	NA	NA	NA	NA	NA	hospital	FAM0324	M9	excl_BF	BF	5	0	no
+C12F032407H4	LLNEXT006914	LLNEXT004006	FAM0324	singleton	no	no	VG	NA	NA	34	female	ever_BF	271	38.71428571	38w5d	self-reported	NA	NA	NA	NA	NA	NA	hospital	FAM0324	M12	excl_BF	BF	5	0	NA
+C06F032407H2	LLNEXT006914	LLNEXT004006	FAM0324	singleton	no	no	VG	NA	NA	34	female	ever_BF	271	38.71428571	38w5d	self-reported	NA	NA	NA	NA	NA	NA	hospital	FAM0324	M6	excl_BF	BF	5	0	no
+C03F032407H1	LLNEXT006914	LLNEXT004006	FAM0324	singleton	no	no	VG	NA	NA	34	female	ever_BF	271	38.71428571	38w5d	self-reported	NA	NA	NA	NA	NA	NA	hospital	FAM0324	M3	NA	NA	NA	NA	no
+C03F046333A8	LLNEXT007292	LLNEXT006671	FAM0463	singleton	no	no	VG	BF	NA	42	female	ever_BF	295	42.14285714	42w1d	clinical	FF/BF		vaginal	breastfeeding	NA	0	hospital	FAM0463	M3	NA	MF	NA	NA	no
+C06F046310C8	LLNEXT007292	LLNEXT006671	FAM0463	singleton	no	no	VG	BF	NA	42	female	ever_BF	295	42.14285714	42w1d	clinical	FF/BF		vaginal	breastfeeding	NA	0	hospital	FAM0463	M6	NA	NA	NA	NA	no
+C12F046310D1	LLNEXT007292	LLNEXT006671	FAM0463	singleton	no	no	VG	BF	NA	42	female	ever_BF	295	42.14285714	42w1d	clinical	FF/BF		vaginal	breastfeeding	NA	0	hospital	FAM0463	M12	NA	NA	NA	NA	NA
+C09F046310C9	LLNEXT007292	LLNEXT006671	FAM0463	singleton	no	no	VG	BF	NA	42	female	ever_BF	295	42.14285714	42w1d	clinical	FF/BF		vaginal	breastfeeding	NA	0	hospital	FAM0463	M9	excl_FF	FF	0	1	yes
+C01F046333A9	LLNEXT007292	LLNEXT006671	FAM0463	singleton	no	no	VG	BF	NA	42	female	ever_BF	295	42.14285714	42w1d	clinical	FF/BF		vaginal	breastfeeding	NA	0	hospital	FAM0463	M1	NA	MF	NA	NA	no
+C02F046333B1	LLNEXT007292	LLNEXT006671	FAM0463	singleton	no	no	VG	BF	NA	42	female	ever_BF	295	42.14285714	42w1d	clinical	FF/BF		vaginal	breastfeeding	NA	0	hospital	FAM0463	M2	NA	MF	NA	NA	no
+C12F046914A7	LLNEXT007454	LLNEXT007418	FAM0469	singleton	no	no	VG	MF	no	26	male	ever_BF	251	35.85714286	35w6d	clinical	NA	NA	vaginal	mixed	NA	1	hospital	FAM0469	M12	NA	NA	NA	NA	NA
+C01X046901C7	LLNEXT007454	LLNEXT007418	FAM0469	singleton	no	no	VG	MF	no	26	male	ever_BF	251	35.85714286	35w6d	clinical	NA	NA	vaginal	mixed	NA	1	hospital	FAM0469	M1	NA	NA	NA	NA	NA
+C03X046901C9	LLNEXT007454	LLNEXT007418	FAM0469	singleton	no	no	VG	MF	no	26	male	ever_BF	251	35.85714286	35w6d	clinical	NA	NA	vaginal	mixed	NA	1	hospital	FAM0469	M3	NA	NA	NA	NA	NA
+C06F046914A6	LLNEXT007454	LLNEXT007418	FAM0469	singleton	no	no	VG	MF	no	26	male	ever_BF	251	35.85714286	35w6d	clinical	NA	NA	vaginal	mixed	NA	1	hospital	FAM0469	M6	NA	NA	NA	NA	NA
+C02X046901C8	LLNEXT007454	LLNEXT007418	FAM0469	singleton	no	no	VG	MF	no	26	male	ever_BF	251	35.85714286	35w6d	clinical	NA	NA	vaginal	mixed	NA	1	hospital	FAM0469	M2	NA	NA	NA	NA	NA
+C06F046110F2	LLNEXT007788	LLNEXT006608	FAM0461	singleton	no	no	VG	BF	NA	32	male	ever_BF	260	37.14285714	37w1d	clinical	BF		vaginal	breastfeeding	NA	1	home	FAM0461	M6	NA	NA	NA	NA	NA
+C12F046110F4	LLNEXT007788	LLNEXT006608	FAM0461	singleton	no	no	VG	BF	NA	32	male	ever_BF	260	37.14285714	37w1d	clinical	BF		vaginal	breastfeeding	NA	1	home	FAM0461	M12	NA	NA	NA	NA	NA
+C03F046132C6	LLNEXT007788	LLNEXT006608	FAM0461	singleton	no	no	VG	BF	NA	32	male	ever_BF	260	37.14285714	37w1d	clinical	BF		vaginal	breastfeeding	NA	1	home	FAM0461	M3	excl_BF	BF	NA	NA	NA
+C02F046132D1	LLNEXT007788	LLNEXT006608	FAM0461	singleton	no	no	VG	BF	NA	32	male	ever_BF	260	37.14285714	37w1d	clinical	BF		vaginal	breastfeeding	NA	1	home	FAM0461	M2	excl_BF	BF	NA	NA	NA
+C09F046110F3	LLNEXT007788	LLNEXT006608	FAM0461	singleton	no	no	VG	BF	NA	32	male	ever_BF	260	37.14285714	37w1d	clinical	BF		vaginal	breastfeeding	NA	1	home	FAM0461	M9	NA	NA	NA	NA	NA
+C01X015619H5	LLNEXT007977	LLNEXT006590	FAM0156	singleton	no	no	CS	NA	no	36	female	ever_BF	275	39.28571429	39w2d	clinical	BF		planned_ceasarian_section	NA	yes	2	hospital	FAM0156	M1	excl_BF	BF	NA	NA	no
+C03F015633E4	LLNEXT007977	LLNEXT006590	FAM0156	singleton	no	no	CS	NA	no	36	female	ever_BF	275	39.28571429	39w2d	clinical	BF		planned_ceasarian_section	NA	yes	2	hospital	FAM0156	M3	excl_BF	BF	NA	NA	no
+C09F015612G1	LLNEXT007977	LLNEXT006590	FAM0156	singleton	no	no	CS	NA	no	36	female	ever_BF	275	39.28571429	39w2d	clinical	BF		planned_ceasarian_section	NA	yes	2	hospital	FAM0156	M9	excl_FF	FF	0	1	yes
+C06F015612F9	LLNEXT007977	LLNEXT006590	FAM0156	singleton	no	no	CS	NA	no	36	female	ever_BF	275	39.28571429	39w2d	clinical	BF		planned_ceasarian_section	NA	yes	2	hospital	FAM0156	M6	excl_FF	FF	0	1	yes
+C12F015612G2	LLNEXT007977	LLNEXT006590	FAM0156	singleton	no	no	CS	NA	no	36	female	ever_BF	275	39.28571429	39w2d	clinical	BF		planned_ceasarian_section	NA	yes	2	hospital	FAM0156	M12	NA	NA	NA	NA	NA
+C02X015619H4	LLNEXT007977	LLNEXT006590	FAM0156	singleton	no	no	CS	NA	no	36	female	ever_BF	275	39.28571429	39w2d	clinical	BF		planned_ceasarian_section	NA	yes	2	hospital	FAM0156	M2	excl_BF	BF	NA	NA	no
+C02X045319F8	LLNEXT008101	LLNEXT006257	FAM0453	singleton	no	no	VG	BF	NA	38	female	ever_BF	280	40	40w0d	self-reported	BF		NA	NA	NA	1	hospital	FAM0453	M2	excl_BF	BF	NA	NA	no
+C03X045319F6	LLNEXT008101	LLNEXT006257	FAM0453	singleton	no	no	VG	BF	NA	38	female	ever_BF	280	40	40w0d	self-reported	BF		NA	NA	NA	1	hospital	FAM0453	M3	excl_BF	BF	NA	NA	no
+C09F045311F1	LLNEXT008101	LLNEXT006257	FAM0453	singleton	no	no	VG	BF	NA	38	female	ever_BF	280	40	40w0d	self-reported	BF		NA	NA	NA	1	hospital	FAM0453	M9	NA	NA	NA	NA	no
+C06F045311E9	LLNEXT008101	LLNEXT006257	FAM0453	singleton	no	no	VG	BF	NA	38	female	ever_BF	280	40	40w0d	self-reported	BF		NA	NA	NA	1	hospital	FAM0453	M6	NA	MF	5	0.09	no
+C12F045311F2	LLNEXT008101	LLNEXT006257	FAM0453	singleton	no	no	VG	BF	NA	38	female	ever_BF	280	40	40w0d	self-reported	BF		NA	NA	NA	1	hospital	FAM0453	M12	NA	NA	NA	NA	NA
+C01X045319F7	LLNEXT008101	LLNEXT006257	FAM0453	singleton	no	no	VG	BF	NA	38	female	ever_BF	280	40	40w0d	self-reported	BF		NA	NA	NA	1	hospital	FAM0453	M1	excl_BF	BF	NA	NA	no
+C12F048113H8	LLNEXT008408	LLNEXT008048	FAM0481	singleton	no	no	VG	BF	no	26	male	ever_BF	278	39.71428571	39w5d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0481	M12	excl_FF	FF	0	0.43	NA
+C01X048102F3	LLNEXT008408	LLNEXT008048	FAM0481	singleton	no	no	VG	BF	no	26	male	ever_BF	278	39.71428571	39w5d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0481	M1	excl_BF	BF	NA	NA	no
+C09F048113H7	LLNEXT008408	LLNEXT008048	FAM0481	singleton	no	no	VG	BF	no	26	male	ever_BF	278	39.71428571	39w5d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0481	M9	NA	MF	3	1	no
+C03X048102F5	LLNEXT008408	LLNEXT008048	FAM0481	singleton	no	no	VG	BF	no	26	male	ever_BF	278	39.71428571	39w5d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0481	M3	excl_BF	BF	NA	NA	no
+C06F048113H6	LLNEXT008408	LLNEXT008048	FAM0481	singleton	no	no	VG	BF	no	26	male	ever_BF	278	39.71428571	39w5d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0481	M6	excl_BF	BF	5	0	no
+C02X048102F4	LLNEXT008408	LLNEXT008048	FAM0481	singleton	no	no	VG	BF	no	26	male	ever_BF	278	39.71428571	39w5d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0481	M2	excl_BF	BF	NA	NA	no
+C12F035213E4	LLNEXT008868	LLNEXT008507	FAM0352	singleton	no	no	VG	BF	NA	32	male	ever_BF	287	41	41w0d	clinical	NA	NA	vaginal	breastfeeding	yes	3	hospital	FAM0352	M12	NA	NA	0	0	NA
+C02X035201F6	LLNEXT008868	LLNEXT008507	FAM0352	singleton	no	no	VG	BF	NA	32	male	ever_BF	287	41	41w0d	clinical	NA	NA	vaginal	breastfeeding	yes	3	hospital	FAM0352	M2	NA	NA	NA	NA	no
+C01X035201F5	LLNEXT008868	LLNEXT008507	FAM0352	singleton	no	no	VG	BF	NA	32	male	ever_BF	287	41	41w0d	clinical	NA	NA	vaginal	breastfeeding	yes	3	hospital	FAM0352	M1	NA	NA	NA	NA	no
+C09F035213E3	LLNEXT008868	LLNEXT008507	FAM0352	singleton	no	no	VG	BF	NA	32	male	ever_BF	287	41	41w0d	clinical	NA	NA	vaginal	breastfeeding	yes	3	hospital	FAM0352	M9	NA	NA	NA	NA	yes
+C06F035213E2	LLNEXT008868	LLNEXT008507	FAM0352	singleton	no	no	VG	BF	NA	32	male	ever_BF	287	41	41w0d	clinical	NA	NA	vaginal	breastfeeding	yes	3	hospital	FAM0352	M6	NA	NA	NA	NA	yes
+C03X035201F7	LLNEXT008868	LLNEXT008507	FAM0352	singleton	no	no	VG	BF	NA	32	male	ever_BF	287	41	41w0d	clinical	NA	NA	vaginal	breastfeeding	yes	3	hospital	FAM0352	M3	NA	NA	NA	NA	no
+C01F047708I7	LLNEXT008886	LLNEXT007896	FAM0477	singleton	no	no	VG	BF	NA	30	male	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	NA	1	hospital	FAM0477	M1	excl_BF	BF	NA	NA	no
+C03F047708I9	LLNEXT008886	LLNEXT007896	FAM0477	singleton	no	no	VG	BF	NA	30	male	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	NA	1	hospital	FAM0477	M3	excl_BF	BF	NA	NA	no
+C12F047714E2	LLNEXT008886	LLNEXT007896	FAM0477	singleton	no	no	VG	BF	NA	30	male	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	NA	1	hospital	FAM0477	M12	excl_FF	FF	0	0.43	NA
+C06F047714D9	LLNEXT008886	LLNEXT007896	FAM0477	singleton	no	no	VG	BF	NA	30	male	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	NA	1	hospital	FAM0477	M6	excl_BF	BF	5	0	no
+C09F047714E1	LLNEXT008886	LLNEXT007896	FAM0477	singleton	no	no	VG	BF	NA	30	male	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	NA	1	hospital	FAM0477	M9	excl_BF	BF	5	0	no
+C02F047708I8	LLNEXT008886	LLNEXT007896	FAM0477	singleton	no	no	VG	BF	NA	30	male	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	NA	1	hospital	FAM0477	M2	excl_BF	BF	NA	NA	no
+C06F048715F7	LLNEXT008903	LLNEXT008561	FAM0487	singleton	no	no	VG	NA	no	25	female	ever_BF	276	39.42857143	39w3d	clinical	FF/BF		vaginal	NA	NA	1	hospital	FAM0487	M6	NA	MF	0.5	1	yes
+C01X048701B9	LLNEXT008903	LLNEXT008561	FAM0487	singleton	no	no	VG	NA	no	25	female	ever_BF	276	39.42857143	39w3d	clinical	FF/BF		vaginal	NA	NA	1	hospital	FAM0487	M1	excl_BF	BF	NA	NA	no
+C03X048701C2	LLNEXT008903	LLNEXT008561	FAM0487	singleton	no	no	VG	NA	no	25	female	ever_BF	276	39.42857143	39w3d	clinical	FF/BF		vaginal	NA	NA	1	hospital	FAM0487	M3	NA	MF	NA	NA	no
+C12F048715F6	LLNEXT008903	LLNEXT008561	FAM0487	singleton	no	no	VG	NA	no	25	female	ever_BF	276	39.42857143	39w3d	clinical	FF/BF		vaginal	NA	NA	1	hospital	FAM0487	M12	NA	NA	NA	NA	NA
+CW2F048708F6	LLNEXT008903	LLNEXT008561	FAM0487	singleton	no	no	VG	NA	no	25	female	ever_BF	276	39.42857143	39w3d	clinical	FF/BF		vaginal	NA	NA	1	hospital	FAM0487	W2	excl_BF	BF	NA	NA	no
+C02X048701C1	LLNEXT008903	LLNEXT008561	FAM0487	singleton	no	no	VG	NA	no	25	female	ever_BF	276	39.42857143	39w3d	clinical	FF/BF		vaginal	NA	NA	1	hospital	FAM0487	M2	excl_BF	BF	NA	NA	no
+C09F042116F8	LLNEXT009245	LLNEXT009155	FAM0421	singleton	no	no	VG	NA	NA	32	male	ever_BF	281	40.14285714	40w1d	self-reported	FF		NA	NA	yes	NA	hospital	FAM0421	M9	excl_FF	FF	0	1	yes
+C02F042109B8	LLNEXT009245	LLNEXT009155	FAM0421	singleton	no	no	VG	NA	NA	32	male	ever_BF	281	40.14285714	40w1d	self-reported	FF		NA	NA	yes	NA	hospital	FAM0421	M2	excl_FF	FF	NA	NA	yes
+C06F042116F7	LLNEXT009245	LLNEXT009155	FAM0421	singleton	no	no	VG	NA	NA	32	male	ever_BF	281	40.14285714	40w1d	self-reported	FF		NA	NA	yes	NA	hospital	FAM0421	M6	excl_FF	FF	0	1	yes
+C12F042116F9	LLNEXT009245	LLNEXT009155	FAM0421	singleton	no	no	VG	NA	NA	32	male	ever_BF	281	40.14285714	40w1d	self-reported	FF		NA	NA	yes	NA	hospital	FAM0421	M12	excl_FF	FF	0	1	NA
+C01F042109B7	LLNEXT009245	LLNEXT009155	FAM0421	singleton	no	no	VG	NA	NA	32	male	ever_BF	281	40.14285714	40w1d	self-reported	FF		NA	NA	yes	NA	hospital	FAM0421	M1	NA	MF	NA	NA	no
+C03F034409E7	LLNEXT010379	LLNEXT009623	FAM0344	singleton	no	no	VG	FF	no	30	female	never_BF	274	39.14285714	39w1d	clinical	FF		vaginal	formula	NA	1	home	FAM0344	M3	excl_FF	FF	NA	NA	never_BF
+C02F034409E6	LLNEXT010379	LLNEXT009623	FAM0344	singleton	no	no	VG	FF	no	30	female	never_BF	274	39.14285714	39w1d	clinical	FF		vaginal	formula	NA	1	home	FAM0344	M2	excl_FF	FF	NA	NA	never_BF
+C01F034409E5	LLNEXT010379	LLNEXT009623	FAM0344	singleton	no	no	VG	FF	no	30	female	never_BF	274	39.14285714	39w1d	clinical	FF		vaginal	formula	NA	1	home	FAM0344	M1	excl_FF	FF	NA	NA	never_BF
+C12F034438B4	LLNEXT010379	LLNEXT009623	FAM0344	singleton	no	no	VG	FF	no	30	female	never_BF	274	39.14285714	39w1d	clinical	FF		vaginal	formula	NA	1	home	FAM0344	M12	NA	NA	NA	NA	NA
+C06F034445D4	LLNEXT010379	LLNEXT009623	FAM0344	singleton	no	no	VG	FF	no	30	female	never_BF	274	39.14285714	39w1d	clinical	FF		vaginal	formula	NA	1	home	FAM0344	M6	NA	NA	NA	NA	never_BF
+CW2F034408C4	LLNEXT010379	LLNEXT009623	FAM0344	singleton	no	no	VG	FF	no	30	female	never_BF	274	39.14285714	39w1d	clinical	FF		vaginal	formula	NA	1	home	FAM0344	W2	excl_FF	FF	NA	NA	never_BF
+C09F034446G5	LLNEXT010379	LLNEXT009623	FAM0344	singleton	no	no	VG	FF	no	30	female	never_BF	274	39.14285714	39w1d	clinical	FF		vaginal	formula	NA	1	home	FAM0344	M9	NA	NA	NA	NA	never_BF
+C06F027912F8	LLNEXT010577	LLNEXT008525	FAM0279	singleton	no	no	VG	BF	no	31	female	ever_BF	289	41.28571429	41w2d	clinical	FF		vaginal	breastfeeding	yes	0	hospital	FAM0279	M6	excl_FF	FF	0	1	yes
+C09F027915C7	LLNEXT010577	LLNEXT008525	FAM0279	singleton	no	no	VG	BF	no	31	female	ever_BF	289	41.28571429	41w2d	clinical	FF		vaginal	breastfeeding	yes	0	hospital	FAM0279	M9	excl_FF	FF	0	1	yes
+C03F027908D5	LLNEXT010577	LLNEXT008525	FAM0279	singleton	no	no	VG	BF	no	31	female	ever_BF	289	41.28571429	41w2d	clinical	FF		vaginal	breastfeeding	yes	0	hospital	FAM0279	M3	NA	MF	NA	NA	yes
+C12F027915E1	LLNEXT010577	LLNEXT008525	FAM0279	singleton	no	no	VG	BF	no	31	female	ever_BF	289	41.28571429	41w2d	clinical	FF		vaginal	breastfeeding	yes	0	hospital	FAM0279	M12	excl_FF	FF	0	1	NA
+C02F027908D4	LLNEXT010577	LLNEXT008525	FAM0279	singleton	no	no	VG	BF	no	31	female	ever_BF	289	41.28571429	41w2d	clinical	FF		vaginal	breastfeeding	yes	0	hospital	FAM0279	M1	NA	MF	NA	NA	no
+C12F052515B7	LLNEXT010973	LLNEXT010702	FAM0525	singleton	no	no	NA	NA	NA	29	male	ever_BF	272	38.85714286	38w6d	self-reported	NA	NA	NA	NA	NA	NA	NA	FAM0525	M12	NA	NA	NA	NA	NA
+C03F052508E4	LLNEXT010973	LLNEXT010702	FAM0525	singleton	no	no	NA	NA	NA	29	male	ever_BF	272	38.85714286	38w6d	self-reported	NA	NA	NA	NA	NA	NA	NA	FAM0525	M3	NA	NA	NA	NA	no
+C01F052508E6	LLNEXT010973	LLNEXT010702	FAM0525	singleton	no	no	NA	NA	NA	29	male	ever_BF	272	38.85714286	38w6d	self-reported	NA	NA	NA	NA	NA	NA	NA	FAM0525	M1	NA	NA	NA	NA	no
+C02F052508E5	LLNEXT010973	LLNEXT010702	FAM0525	singleton	no	no	NA	NA	NA	29	male	ever_BF	272	38.85714286	38w6d	self-reported	NA	NA	NA	NA	NA	NA	NA	FAM0525	M2	NA	NA	NA	NA	no
+C06F052515A9	LLNEXT010973	LLNEXT010702	FAM0525	singleton	no	no	NA	NA	NA	29	male	ever_BF	272	38.85714286	38w6d	self-reported	NA	NA	NA	NA	NA	NA	NA	FAM0525	M6	NA	MF	2	1	yes
+C09F052515B6	LLNEXT010973	LLNEXT010702	FAM0525	singleton	no	no	NA	NA	NA	29	male	ever_BF	272	38.85714286	38w6d	self-reported	NA	NA	NA	NA	NA	NA	NA	FAM0525	M9	excl_FF	FF	0	1	yes
+C12F019638A5	LLNEXT011026	LLNEXT009731	FAM0196	singleton	no	no	VG	NA	NA	36	female	ever_BF	279	39.85714286	39w6d	clinical	NA	NA	vaginal	NA	yes	2	hospital	FAM0196	M12	NA	NA	NA	NA	NA
+C02F019610B8	LLNEXT011026	LLNEXT009731	FAM0196	singleton	no	no	VG	NA	NA	36	female	ever_BF	279	39.85714286	39w6d	clinical	NA	NA	vaginal	NA	yes	2	hospital	FAM0196	M2	excl_BF	BF	NA	NA	no
+C09F019646F7	LLNEXT011026	LLNEXT009731	FAM0196	singleton	no	no	VG	NA	NA	36	female	ever_BF	279	39.85714286	39w6d	clinical	NA	NA	vaginal	NA	yes	2	hospital	FAM0196	M9	NA	NA	NA	NA	yes
+C06F019645C7	LLNEXT011026	LLNEXT009731	FAM0196	singleton	no	no	VG	NA	NA	36	female	ever_BF	279	39.85714286	39w6d	clinical	NA	NA	vaginal	NA	yes	2	hospital	FAM0196	M6	excl_BF	BF	5	0	yes
+C01F019610B7	LLNEXT011026	LLNEXT009731	FAM0196	singleton	no	no	VG	NA	NA	36	female	ever_BF	279	39.85714286	39w6d	clinical	NA	NA	vaginal	NA	yes	2	hospital	FAM0196	M1	excl_BF	BF	NA	NA	no
+C03F019610B9	LLNEXT011026	LLNEXT009731	FAM0196	singleton	no	no	VG	NA	NA	36	female	ever_BF	279	39.85714286	39w6d	clinical	NA	NA	vaginal	NA	yes	2	hospital	FAM0196	M3	NA	NA	NA	NA	no
+C01X052001B6	LLNEXT011053	LLNEXT010531	FAM0520	singleton	no	no	VG	BF	no	35	male	ever_BF	275	39.28571429	39w2d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0520	M1	excl_FF	FF	NA	NA	yes
+C06F052014G3	LLNEXT011053	LLNEXT010531	FAM0520	singleton	no	no	VG	BF	no	35	male	ever_BF	275	39.28571429	39w2d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0520	M6	NA	MF	4	1	yes
+C02X052001B7	LLNEXT011053	LLNEXT010531	FAM0520	singleton	no	no	VG	BF	no	35	male	ever_BF	275	39.28571429	39w2d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0520	M2	excl_FF	FF	NA	NA	yes
+C03X052001B8	LLNEXT011053	LLNEXT010531	FAM0520	singleton	no	no	VG	BF	no	35	male	ever_BF	275	39.28571429	39w2d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0520	M3	excl_FF	FF	NA	NA	yes
+C09F052014G4	LLNEXT011053	LLNEXT010531	FAM0520	singleton	no	no	VG	BF	no	35	male	ever_BF	275	39.28571429	39w2d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0520	M9	excl_FF	FF	0	1	yes
+C12F052014G5	LLNEXT011053	LLNEXT010531	FAM0520	singleton	no	no	VG	BF	no	35	male	ever_BF	275	39.28571429	39w2d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0520	M12	NA	NA	NA	NA	NA
+CW2F053349F4	LLNEXT011666	LLNEXT010964	FAM0533	singleton	no	no	VG	BF	no	34	male	ever_BF	272	38.85714286	38w6d	clinical	NA	NA	vaginal	breastfeeding	NA	2	home	FAM0533	W2	excl_BF	BF	NA	NA	NA
+C03F053312A7	LLNEXT011666	LLNEXT010964	FAM0533	singleton	no	no	VG	BF	no	34	male	ever_BF	272	38.85714286	38w6d	clinical	NA	NA	vaginal	breastfeeding	NA	2	home	FAM0533	M3	NA	NA	NA	NA	NA
+C12F053339E3	LLNEXT011666	LLNEXT010964	FAM0533	singleton	no	no	VG	BF	no	34	male	ever_BF	272	38.85714286	38w6d	clinical	NA	NA	vaginal	breastfeeding	NA	2	home	FAM0533	M12	NA	NA	NA	NA	NA
+C02F053312A6	LLNEXT011666	LLNEXT010964	FAM0533	singleton	no	no	VG	BF	no	34	male	ever_BF	272	38.85714286	38w6d	clinical	NA	NA	vaginal	breastfeeding	NA	2	home	FAM0533	M2	excl_BF	BF	NA	NA	NA
+C09F053346I4	LLNEXT011666	LLNEXT010964	FAM0533	singleton	no	no	VG	BF	no	34	male	ever_BF	272	38.85714286	38w6d	clinical	NA	NA	vaginal	breastfeeding	NA	2	home	FAM0533	M9	NA	NA	NA	NA	NA
+C06F053345F7	LLNEXT011666	LLNEXT010964	FAM0533	singleton	no	no	VG	BF	no	34	male	ever_BF	272	38.85714286	38w6d	clinical	NA	NA	vaginal	breastfeeding	NA	2	home	FAM0533	M6	NA	NA	NA	NA	NA
+C06F051616G8	LLNEXT011693	LLNEXT010261	FAM0516	singleton	sibling_1	no	VG	BF	no	24	male	ever_BF	285	40.71428571	40w5d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0516	M6	NA	NA	NA	NA	NA
+C12F051616H1	LLNEXT011693	LLNEXT010261	FAM0516	singleton	sibling_1	no	VG	BF	no	24	male	ever_BF	285	40.71428571	40w5d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0516	M12	NA	NA	NA	NA	NA
+C03F051609A5	LLNEXT011693	LLNEXT010261	FAM0516	singleton	sibling_1	no	VG	BF	no	24	male	ever_BF	285	40.71428571	40w5d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0516	M3	excl_FF	FF	NA	NA	NA
+C09F051616G9	LLNEXT011693	LLNEXT010261	FAM0516	singleton	sibling_1	no	VG	BF	no	24	male	ever_BF	285	40.71428571	40w5d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0516	M9	NA	NA	NA	NA	NA
+C02F051609A4	LLNEXT011693	LLNEXT010261	FAM0516	singleton	sibling_1	no	VG	BF	no	24	male	ever_BF	285	40.71428571	40w5d	clinical	FF		vaginal	breastfeeding	NA	0	hospital	FAM0516	M2	excl_FF	FF	NA	NA	NA
+C01F028909I6	LLNEXT012043	LLNEXT010090	FAM0289	singleton	no	no	VG	BF	no	34	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0289	M1	NA	NA	NA	NA	no
+C06F028945D9	LLNEXT012043	LLNEXT010090	FAM0289	singleton	no	no	VG	BF	no	34	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0289	M6	excl_BF	BF	5	0	no
+C03F028909I8	LLNEXT012043	LLNEXT010090	FAM0289	singleton	no	no	VG	BF	no	34	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0289	M3	excl_BF	BF	NA	NA	no
+C12F028938C1	LLNEXT012043	LLNEXT010090	FAM0289	singleton	no	no	VG	BF	no	34	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0289	M12	excl_BF	BF	4	0	NA
+C02F028909I7	LLNEXT012043	LLNEXT010090	FAM0289	singleton	no	no	VG	BF	no	34	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0289	M2	NA	NA	NA	NA	no
+CW2F028908C7	LLNEXT012043	LLNEXT010090	FAM0289	singleton	no	no	VG	BF	no	34	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0289	W2	NA	NA	NA	NA	no
+C09F028946G7	LLNEXT012043	LLNEXT010090	FAM0289	singleton	no	no	VG	BF	no	34	female	ever_BF	275	39.28571429	39w2d	clinical	BF		vaginal	breastfeeding	NA	2	home	FAM0289	M9	excl_BF	BF	4	0	no
+CW2F054508G5	LLNEXT012674	LLNEXT011783	FAM0545	singleton	no	no	CS	BF	no	34	male	ever_BF	273	39	39w0d	clinical	BF		planned_ceasarian_section	breastfeeding	NA	1	hospital	FAM0545	W2	excl_BF	BF	NA	NA	no
+C12F054538B7	LLNEXT012674	LLNEXT011783	FAM0545	singleton	no	no	CS	BF	no	34	male	ever_BF	273	39	39w0d	clinical	BF		planned_ceasarian_section	breastfeeding	NA	1	hospital	FAM0545	M12	excl_FF	FF	0	1	NA
+C03F054509F7	LLNEXT012674	LLNEXT011783	FAM0545	singleton	no	no	CS	BF	no	34	male	ever_BF	273	39	39w0d	clinical	BF		planned_ceasarian_section	breastfeeding	NA	1	hospital	FAM0545	M3	excl_BF	BF	NA	NA	no
+C06F054545D5	LLNEXT012674	LLNEXT011783	FAM0545	singleton	no	no	CS	BF	no	34	male	ever_BF	273	39	39w0d	clinical	BF		planned_ceasarian_section	breastfeeding	NA	1	hospital	FAM0545	M6	NA	MF	3	1	no
+C01F054509F5	LLNEXT012674	LLNEXT011783	FAM0545	singleton	no	no	CS	BF	no	34	male	ever_BF	273	39	39w0d	clinical	BF		planned_ceasarian_section	breastfeeding	NA	1	hospital	FAM0545	M1	excl_BF	BF	NA	NA	no
+C02F054509F6	LLNEXT012674	LLNEXT011783	FAM0545	singleton	no	no	CS	BF	no	34	male	ever_BF	273	39	39w0d	clinical	BF		planned_ceasarian_section	breastfeeding	NA	1	hospital	FAM0545	M2	excl_BF	BF	NA	NA	no
+C01X056910E1	LLNEXT012719	LLNEXT012584	FAM0569	singleton	sibling_1	no	VG	NA	NA	32	female	ever_BF	289	41.28571429	41w2d	clinical	BF		vaginal	NA	NA	0	hospital	FAM0569	M1	excl_BF	BF	NA	NA	no
+C09F056946F8	LLNEXT012719	LLNEXT012584	FAM0569	singleton	sibling_1	no	VG	NA	NA	32	female	ever_BF	289	41.28571429	41w2d	clinical	BF		vaginal	NA	NA	0	hospital	FAM0569	M9	excl_FF	FF	0	1	yes
+C12F056938A6	LLNEXT012719	LLNEXT012584	FAM0569	singleton	sibling_1	no	VG	NA	NA	32	female	ever_BF	289	41.28571429	41w2d	clinical	BF		vaginal	NA	NA	0	hospital	FAM0569	M12	excl_FF	FF	0	1	NA
+C06F056945C8	LLNEXT012719	LLNEXT012584	FAM0569	singleton	sibling_1	no	VG	NA	NA	32	female	ever_BF	289	41.28571429	41w2d	clinical	BF		vaginal	NA	NA	0	hospital	FAM0569	M6	excl_FF	FF	0	1	yes
+C02X056910E2	LLNEXT012719	LLNEXT012584	FAM0569	singleton	sibling_1	no	VG	NA	NA	32	female	ever_BF	289	41.28571429	41w2d	clinical	BF		vaginal	NA	NA	0	hospital	FAM0569	M2	excl_BF	BF	NA	NA	no
+CW2F056910D9	LLNEXT012719	LLNEXT012584	FAM0569	singleton	sibling_1	no	VG	NA	NA	32	female	ever_BF	289	41.28571429	41w2d	clinical	BF		vaginal	NA	NA	0	hospital	FAM0569	W2	excl_BF	BF	NA	NA	no
+C03X056910E3	LLNEXT012719	LLNEXT012584	FAM0569	singleton	sibling_1	no	VG	NA	NA	32	female	ever_BF	289	41.28571429	41w2d	clinical	BF		vaginal	NA	NA	0	hospital	FAM0569	M3	excl_BF	BF	NA	NA	no
+C06F019945E9	LLNEXT012908	LLNEXT012737	FAM0199	singleton	no	no	VG	BF	NA	34	male	ever_BF	265	37.85714286	37w6d	self-reported	NA	NA	NA	NA	NA	1	hospital	FAM0199	M6	NA	NA	NA	NA	yes
+C09F019946G9	LLNEXT012908	LLNEXT012737	FAM0199	singleton	no	no	VG	BF	NA	34	male	ever_BF	265	37.85714286	37w6d	self-reported	NA	NA	NA	NA	NA	1	hospital	FAM0199	M9	NA	NA	NA	NA	yes
+C02F019911B3	LLNEXT012908	LLNEXT012737	FAM0199	singleton	no	no	VG	BF	NA	34	male	ever_BF	265	37.85714286	37w6d	self-reported	NA	NA	NA	NA	NA	1	hospital	FAM0199	M2	excl_FF	FF	NA	NA	yes
+C03F019911B4	LLNEXT012908	LLNEXT012737	FAM0199	singleton	no	no	VG	BF	NA	34	male	ever_BF	265	37.85714286	37w6d	self-reported	NA	NA	NA	NA	NA	1	hospital	FAM0199	M3	excl_FF	FF	NA	NA	yes
+C12F019938D2	LLNEXT012908	LLNEXT012737	FAM0199	singleton	no	no	VG	BF	NA	34	male	ever_BF	265	37.85714286	37w6d	self-reported	NA	NA	NA	NA	NA	1	hospital	FAM0199	M12	NA	NA	NA	NA	NA
+C09F054146F4	LLNEXT012917	LLNEXT011639	FAM0541	singleton	sibling_1	no	VG	NA	NA	28	male	ever_BF	274	39.14285714	39w1d	clinical	FF		vaginal	NA	NA	1	hospital	FAM0541	M9	excl_FF	FF	0	1	yes
+C02F054112B3	LLNEXT012917	LLNEXT011639	FAM0541	singleton	sibling_1	no	VG	NA	NA	28	male	ever_BF	274	39.14285714	39w1d	clinical	FF		vaginal	NA	NA	1	hospital	FAM0541	M2	NA	NA	NA	NA	no
+C12F054138E3	LLNEXT012917	LLNEXT011639	FAM0541	singleton	sibling_1	no	VG	NA	NA	28	male	ever_BF	274	39.14285714	39w1d	clinical	FF		vaginal	NA	NA	1	hospital	FAM0541	M12	excl_FF	FF	0	1	NA
+C03F054112B4	LLNEXT012917	LLNEXT011639	FAM0541	singleton	sibling_1	no	VG	NA	NA	28	male	ever_BF	274	39.14285714	39w1d	clinical	FF		vaginal	NA	NA	1	hospital	FAM0541	M3	NA	MF	NA	NA	yes
+CW2F054109H5	LLNEXT012917	LLNEXT011639	FAM0541	singleton	sibling_1	no	VG	NA	NA	28	male	ever_BF	274	39.14285714	39w1d	clinical	FF		vaginal	NA	NA	1	hospital	FAM0541	W2	NA	NA	NA	NA	no
+C06F054145C3	LLNEXT012917	LLNEXT011639	FAM0541	singleton	sibling_1	no	VG	NA	NA	28	male	ever_BF	274	39.14285714	39w1d	clinical	FF		vaginal	NA	NA	1	hospital	FAM0541	M6	NA	NA	NA	NA	yes
+C01F054112B2	LLNEXT012917	LLNEXT011639	FAM0541	singleton	sibling_1	no	VG	NA	NA	28	male	ever_BF	274	39.14285714	39w1d	clinical	FF		vaginal	NA	NA	1	hospital	FAM0541	M1	excl_BF	BF	NA	NA	no
+CW2X053609D9	LLNEXT012926	LLNEXT011206	FAM0536	singleton	no	no	VG	BF	NA	35	female	ever_BF	294	42	42w0d	self-reported	BF		NA	NA	NA	2	hospital	FAM0536	W2	excl_BF	BF	NA	NA	no
+C12F053638C8	LLNEXT012926	LLNEXT011206	FAM0536	singleton	no	no	VG	BF	NA	35	female	ever_BF	294	42	42w0d	self-reported	BF		NA	NA	NA	2	hospital	FAM0536	M12	excl_FF	FF	0	1	NA
+C09F053646H5	LLNEXT012926	LLNEXT011206	FAM0536	singleton	no	no	VG	BF	NA	35	female	ever_BF	294	42	42w0d	self-reported	BF		NA	NA	NA	2	hospital	FAM0536	M9	NA	MF	3	1	no
+C03F053612A1	LLNEXT012926	LLNEXT011206	FAM0536	singleton	no	no	VG	BF	NA	35	female	ever_BF	294	42	42w0d	self-reported	BF		NA	NA	NA	2	hospital	FAM0536	M3	excl_BF	BF	NA	NA	no
+C06F053645E6	LLNEXT012926	LLNEXT011206	FAM0536	singleton	no	no	VG	BF	NA	35	female	ever_BF	294	42	42w0d	self-reported	BF		NA	NA	NA	2	hospital	FAM0536	M6	excl_BF	BF	5	0	no
+C01F054812E5	LLNEXT012953	LLNEXT012016	FAM0548	singleton	no	no	VG	BF	no	25	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	NA	0	home	FAM0548	M1	excl_BF	BF	NA	NA	no
+CW2F054849G6	LLNEXT012953	LLNEXT012016	FAM0548	singleton	no	no	VG	BF	no	25	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	NA	0	home	FAM0548	W2	excl_BF	BF	NA	NA	no
+C03F054812E3	LLNEXT012953	LLNEXT012016	FAM0548	singleton	no	no	VG	BF	no	25	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	NA	0	home	FAM0548	M3	excl_BF	BF	NA	NA	no
+C02F054812E4	LLNEXT012953	LLNEXT012016	FAM0548	singleton	no	no	VG	BF	no	25	female	ever_BF	281	40.14285714	40w1d	clinical	BF		vaginal	breastfeeding	NA	0	home	FAM0548	M2	excl_BF	BF	NA	NA	no
+CW2F053109C1	LLNEXT013240	LLNEXT010892	FAM0531	singleton	no	no	NA	NA	NA	27	male	ever_BF	275	39.28571429	39w2d	self-reported	BF		NA	NA	NA	NA	NA	FAM0531	W2	NA	NA	NA	NA	no
+C12F053138C6	LLNEXT013240	LLNEXT010892	FAM0531	singleton	no	no	NA	NA	NA	27	male	ever_BF	275	39.28571429	39w2d	self-reported	BF		NA	NA	NA	NA	NA	FAM0531	M12	excl_FF	FF	0	0.09	NA
+C09F053146H6	LLNEXT013240	LLNEXT010892	FAM0531	singleton	no	no	NA	NA	NA	27	male	ever_BF	275	39.28571429	39w2d	self-reported	BF		NA	NA	NA	NA	NA	FAM0531	M9	excl_FF	FF	0	1	yes
+C03F053111D2	LLNEXT013240	LLNEXT010892	FAM0531	singleton	no	no	NA	NA	NA	27	male	ever_BF	275	39.28571429	39w2d	self-reported	BF		NA	NA	NA	NA	NA	FAM0531	M3	excl_BF	BF	NA	NA	no
+C06F053145E8	LLNEXT013240	LLNEXT010892	FAM0531	singleton	no	no	NA	NA	NA	27	male	ever_BF	275	39.28571429	39w2d	self-reported	BF		NA	NA	NA	NA	NA	FAM0531	M6	NA	NA	NA	NA	yes
+C01F053111C9	LLNEXT013240	LLNEXT010892	FAM0531	singleton	no	no	NA	NA	NA	27	male	ever_BF	275	39.28571429	39w2d	self-reported	BF		NA	NA	NA	NA	NA	FAM0531	M1	NA	NA	NA	NA	no
+C02F053111D1	LLNEXT013240	LLNEXT010892	FAM0531	singleton	no	no	NA	NA	NA	27	male	ever_BF	275	39.28571429	39w2d	self-reported	BF		NA	NA	NA	NA	NA	FAM0531	M2	excl_BF	BF	NA	NA	no
+CW2F064716H4	LLNEXT201170	LLNEXT200232	FAM0647	singleton	sibling_1	no	VG	NA	NA	29	female	ever_BF	267	38.14285714	38w1d	clinical	BF		vaginal	NA	no	0	home	FAM0647	W2	excl_BF	BF	NA	NA	no
+C01F068539H4	LLNEXT201820	LLNEXT201273	FAM0685	singleton	no	no	VG	MF	no	40	female	ever_BF	260	37.14285714	37w1d	clinical	FF/BF		vaginal	mixed	yes	1	hospital	FAM0685	M1	NA	MF	NA	NA	no
+C02F068541G9	LLNEXT201820	LLNEXT201273	FAM0685	singleton	no	no	VG	MF	no	40	female	ever_BF	260	37.14285714	37w1d	clinical	FF/BF		vaginal	mixed	yes	1	hospital	FAM0685	M2	NA	MF	NA	NA	no
+C03F068543F9	LLNEXT201820	LLNEXT201273	FAM0685	singleton	no	no	VG	MF	no	40	female	ever_BF	260	37.14285714	37w1d	clinical	FF/BF		vaginal	mixed	yes	1	hospital	FAM0685	M3	NA	MF	NA	NA	no
+CW2F068548A6	LLNEXT201820	LLNEXT201273	FAM0685	singleton	no	no	VG	MF	no	40	female	ever_BF	260	37.14285714	37w1d	clinical	FF/BF		vaginal	mixed	yes	1	hospital	FAM0685	W2	NA	MF	NA	NA	no
+CW2F066516F6	LLNEXT202307	LLNEXT200244	FAM0665	singleton	no	no	VG	BF	no	30	male	ever_BF	288	41.14285714	41w1d	clinical	NA	NA	vaginal	breastfeeding	yes	0	hospital	FAM0665	W2	NA	NA	NA	NA	NA
+C02F065741F9	LLNEXT202332	LLNEXT200736	FAM0657	singleton	sibling_1	no	CS	BF	no	26	female	ever_BF	283	40.42857143	40w3d	clinical	BF		emergency_ceasarian_section	breastfeeding	no	0	hospital	FAM0657	M2	excl_BF	BF	NA	NA	no
+C03F065743F3	LLNEXT202332	LLNEXT200736	FAM0657	singleton	sibling_1	no	CS	BF	no	26	female	ever_BF	283	40.42857143	40w3d	clinical	BF		emergency_ceasarian_section	breastfeeding	no	0	hospital	FAM0657	M3	excl_BF	BF	NA	NA	no
+C01F065739G6	LLNEXT202332	LLNEXT200736	FAM0657	singleton	sibling_1	no	CS	BF	no	26	female	ever_BF	283	40.42857143	40w3d	clinical	BF		emergency_ceasarian_section	breastfeeding	no	0	hospital	FAM0657	M1	excl_BF	BF	NA	NA	no
+CW2F065735E9	LLNEXT202332	LLNEXT200736	FAM0657	singleton	sibling_1	no	CS	BF	no	26	female	ever_BF	283	40.42857143	40w3d	clinical	BF		emergency_ceasarian_section	breastfeeding	no	0	hospital	FAM0657	W2	excl_BF	BF	NA	NA	no
+C06F071459D7	LLNEXT203294	LLNEXT201911	FAM0714	singleton	sibling_1	no	VG	NA	NA	37	male	ever_BF	277	39.57142857	39w4d	self-reported	NA	NA	NA	NA	no	NA	hospital	FAM0714	M6	NA	MF	5	1	no
+C12F071459D9	LLNEXT203294	LLNEXT201911	FAM0714	singleton	sibling_1	no	VG	NA	NA	37	male	ever_BF	277	39.57142857	39w4d	self-reported	NA	NA	NA	NA	no	NA	hospital	FAM0714	M12	NA	NA	NA	NA	NA
+CW2F071416C4	LLNEXT203294	LLNEXT201911	FAM0714	singleton	sibling_1	no	VG	NA	NA	37	male	ever_BF	277	39.57142857	39w4d	self-reported	NA	NA	NA	NA	no	NA	hospital	FAM0714	W2	NA	MF	NA	NA	no
+C09F071459C5	LLNEXT203294	LLNEXT201911	FAM0714	singleton	sibling_1	no	VG	NA	NA	37	male	ever_BF	277	39.57142857	39w4d	self-reported	NA	NA	NA	NA	no	NA	hospital	FAM0714	M9	NA	MF	5	0.09	yes
+C02F080642D2	LLNEXT203786	LLNEXT203774	FAM0806	singleton	no	no	VG	BF	no	33	female	ever_BF	278	39.71428571	39w5d	clinical	FF		vaginal	breastfeeding	no	0	hospital	FAM0806	M2	excl_FF	FF	NA	NA	yes
+C01F080640I3	LLNEXT203786	LLNEXT203774	FAM0806	singleton	no	no	VG	BF	no	33	female	ever_BF	278	39.71428571	39w5d	clinical	FF		vaginal	breastfeeding	no	0	hospital	FAM0806	M1	excl_FF	FF	NA	NA	yes
+CW2F080648G2	LLNEXT203786	LLNEXT203774	FAM0806	singleton	no	no	VG	BF	no	33	female	ever_BF	278	39.71428571	39w5d	clinical	FF		vaginal	breastfeeding	no	0	hospital	FAM0806	W2	excl_FF	FF	NA	NA	yes
+C03F075343G4	LLNEXT203865	LLNEXT202708	FAM0753	singleton	no	no	CS	FF	no	33	female	ever_BF	290	41.42857143	41w3d	clinical	FF		vaginal	formula	no	1	hospital	FAM0753	M3	excl_FF	FF	NA	NA	yes
+C01F075339H6	LLNEXT203865	LLNEXT202708	FAM0753	singleton	no	no	CS	FF	no	33	female	ever_BF	290	41.42857143	41w3d	clinical	FF		vaginal	formula	no	1	hospital	FAM0753	M1	excl_FF	FF	NA	NA	yes
+C02F075341H4	LLNEXT203865	LLNEXT202708	FAM0753	singleton	no	no	CS	FF	no	33	female	ever_BF	290	41.42857143	41w3d	clinical	FF		vaginal	formula	no	1	hospital	FAM0753	M2	excl_FF	FF	NA	NA	yes
+CW2F075348A5	LLNEXT203865	LLNEXT202708	FAM0753	singleton	no	no	CS	FF	no	33	female	ever_BF	290	41.42857143	41w3d	clinical	FF		vaginal	formula	no	1	hospital	FAM0753	W2	NA	MF	NA	NA	no
+C06F081558D6	LLNEXT204067	LLNEXT204055	FAM0815	singleton	no	no	VG	FF	no	37	female	never_BF	282	40.28571429	40w2d	clinical	FF		vaginal	formula	no	1	home	FAM0815	M6	excl_FF	FF	0	1	never_BF
+C09F081558A6	LLNEXT204067	LLNEXT204055	FAM0815	singleton	no	no	VG	FF	no	37	female	never_BF	282	40.28571429	40w2d	clinical	FF		vaginal	formula	no	1	home	FAM0815	M9	excl_FF	FF	0	1	never_BF
+C01F081539F8	LLNEXT204067	LLNEXT204055	FAM0815	singleton	no	no	VG	FF	no	37	female	never_BF	282	40.28571429	40w2d	clinical	FF		vaginal	formula	no	1	home	FAM0815	M1	excl_FF	FF	NA	NA	never_BF
+CW2F081548C2	LLNEXT204067	LLNEXT204055	FAM0815	singleton	no	no	VG	FF	no	37	female	never_BF	282	40.28571429	40w2d	clinical	FF		vaginal	formula	no	1	home	FAM0815	W2	excl_FF	FF	NA	NA	never_BF
+C03F081543E6	LLNEXT204067	LLNEXT204055	FAM0815	singleton	no	no	VG	FF	no	37	female	never_BF	282	40.28571429	40w2d	clinical	FF		vaginal	formula	no	1	home	FAM0815	M3	excl_FF	FF	NA	NA	never_BF
+C02F081541F2	LLNEXT204067	LLNEXT204055	FAM0815	singleton	no	no	VG	FF	no	37	female	never_BF	282	40.28571429	40w2d	clinical	FF		vaginal	formula	no	1	home	FAM0815	M2	excl_FF	FF	NA	NA	never_BF
+C12F081558A9	LLNEXT204067	LLNEXT204055	FAM0815	singleton	no	no	VG	FF	no	37	female	never_BF	282	40.28571429	40w2d	clinical	FF		vaginal	formula	no	1	home	FAM0815	M12	excl_FF	FF	0	1	NA
+CW2F068648E4	LLNEXT204122	LLNEXT201327	FAM0686	twins	sibling_1	pair_1	CS	BF	NA	33	female	ever_BF	274	39.14285714	39w1d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	1	hospital	FAM0686	W2	excl_BF	BF	NA	NA	NA
+C01F068639I1	LLNEXT204122	LLNEXT201327	FAM0686	twins	sibling_1	pair_1	CS	BF	NA	33	female	ever_BF	274	39.14285714	39w1d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	1	hospital	FAM0686	M1	excl_BF	BF	NA	NA	NA
+C02F068641H8	LLNEXT204122	LLNEXT201327	FAM0686	twins	sibling_1	pair_1	CS	BF	NA	33	female	ever_BF	274	39.14285714	39w1d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	1	hospital	FAM0686	M2	excl_BF	BF	NA	NA	NA
+C03F068643G9	LLNEXT204122	LLNEXT201327	FAM0686	twins	sibling_1	pair_1	CS	BF	NA	33	female	ever_BF	274	39.14285714	39w1d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	1	hospital	FAM0686	M3	excl_BF	BF	NA	NA	NA
+C02F081742C7	LLNEXT204353	LLNEXT204341	FAM0817	singleton	no	no	VG	BF	no	26	male	ever_BF	283	40.42857143	40w3d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM0817	M2	NA	MF	NA	NA	no
+C01F081741A1	LLNEXT204353	LLNEXT204341	FAM0817	singleton	no	no	VG	BF	no	26	male	ever_BF	283	40.42857143	40w3d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM0817	M1	NA	MF	NA	NA	no
+C03F081744D1	LLNEXT204353	LLNEXT204341	FAM0817	singleton	no	no	VG	BF	no	26	male	ever_BF	283	40.42857143	40w3d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM0817	M3	NA	MF	NA	NA	no
+YW2F047450B9	LLNEXT205059	LLNEXT007706_2	FAM0474	singleton	sibling_2	no	VG	NA	NA	39	male	ever_BF	280	40	40w0d	clinical	BF		vaginal	NA	no	2	hospital	FAM0474	W2	excl_BF	BF	NA	NA	no
+Y01F047440D4	LLNEXT205059	LLNEXT007706_2	FAM0474	singleton	sibling_2	no	VG	NA	NA	39	male	ever_BF	280	40	40w0d	clinical	BF		vaginal	NA	no	2	hospital	FAM0474	M1	excl_BF	BF	NA	NA	no
+Y02F047443A2	LLNEXT205059	LLNEXT007706_2	FAM0474	singleton	sibling_2	no	VG	NA	NA	39	male	ever_BF	280	40	40w0d	clinical	BF		vaginal	NA	no	2	hospital	FAM0474	M2	excl_BF	BF	NA	NA	no
+C02F084642I9	LLNEXT205187	LLNEXT205175	FAM0846	singleton	no	no	VG	NA	NA	32	female	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	no	NA	hospital	FAM0846	M2	excl_BF	BF	NA	NA	no
+C01F084640E1	LLNEXT205187	LLNEXT205175	FAM0846	singleton	no	no	VG	NA	NA	32	female	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	no	NA	hospital	FAM0846	M1	excl_BF	BF	NA	NA	no
+C03F084644H9	LLNEXT205187	LLNEXT205175	FAM0846	singleton	no	no	VG	NA	NA	32	female	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	no	NA	hospital	FAM0846	M3	excl_BF	BF	NA	NA	no
+CW2F084649I1	LLNEXT205187	LLNEXT205175	FAM0846	singleton	no	no	VG	NA	NA	32	female	ever_BF	291	41.57142857	41w4d	self-reported	BF		NA	NA	no	NA	hospital	FAM0846	W2	excl_BF	BF	NA	NA	no
+D03F068643G8	LLNEXT205217	LLNEXT201327	FAM0686	twins	sibling_1	pair_2	CS	BF	NA	33	female	ever_BF	274	39.14285714	39w1d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	1	hospital	FAM0686	M3	excl_BF	BF	NA	NA	NA
+DW2F068648E2	LLNEXT205217	LLNEXT201327	FAM0686	twins	sibling_1	pair_2	CS	BF	NA	33	female	ever_BF	274	39.14285714	39w1d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	1	hospital	FAM0686	W2	excl_BF	BF	NA	NA	NA
+D02F068641H7	LLNEXT205217	LLNEXT201327	FAM0686	twins	sibling_1	pair_2	CS	BF	NA	33	female	ever_BF	274	39.14285714	39w1d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	1	hospital	FAM0686	M2	excl_BF	BF	NA	NA	NA
+D01F068639I2	LLNEXT205217	LLNEXT201327	FAM0686	twins	sibling_1	pair_2	CS	BF	NA	33	female	ever_BF	274	39.14285714	39w1d	clinical	BF		emergency_ceasarian_section	breastfeeding	yes	1	hospital	FAM0686	M1	excl_BF	BF	NA	NA	NA
+CW2F079548H1	LLNEXT206325	LLNEXT205953	FAM0795	singleton	no	no	VG	NA	NA	34	male	ever_BF	254	36.28571429	36w2d	clinical	FF/BF		vaginal	NA	yes	0	hospital	FAM0795	W2	excl_BF	BF	NA	NA	NA
+CW2F088416H2	LLNEXT206799	LLNEXT205679	FAM0884	singleton	no	no	VG	BF	no	27	female	ever_BF	271	38.71428571	38w5d	clinical	BF		vaginal	breastfeeding	NA	1	hospital	FAM0884	W2	excl_BF	BF	NA	NA	no
+C02F088441F8	LLNEXT206799	LLNEXT205679	FAM0884	singleton	no	no	VG	BF	no	27	female	ever_BF	271	38.71428571	38w5d	clinical	BF		vaginal	breastfeeding	NA	1	hospital	FAM0884	M2	excl_BF	BF	NA	NA	no
+C01F088439G5	LLNEXT206799	LLNEXT205679	FAM0884	singleton	no	no	VG	BF	no	27	female	ever_BF	271	38.71428571	38w5d	clinical	BF		vaginal	breastfeeding	NA	1	hospital	FAM0884	M1	excl_BF	BF	NA	NA	no
+C03F088443F2	LLNEXT206799	LLNEXT205679	FAM0884	singleton	no	no	VG	BF	no	27	female	ever_BF	271	38.71428571	38w5d	clinical	BF		vaginal	breastfeeding	NA	1	hospital	FAM0884	M3	excl_BF	BF	NA	NA	no
+C02F085043C1	LLNEXT206842	LLNEXT205254	FAM0850	singleton	no	no	VG	NA	NA	33	male	ever_BF	245	35	35w0d	clinical	BF		vaginal	NA	no	NA	hospital	FAM0850	M2	excl_BF	BF	NA	NA	no
+C01F085041C5	LLNEXT206842	LLNEXT205254	FAM0850	singleton	no	no	VG	NA	NA	33	male	ever_BF	245	35	35w0d	clinical	BF		vaginal	NA	no	NA	hospital	FAM0850	M1	excl_BF	BF	NA	NA	no
+C02F092443A1	LLNEXT207081	LLNEXT206106	FAM0924	singleton	no	no	VG	BF	no	27	female	ever_BF	272	38.85714286	38w6d	clinical	FF/BF		vaginal	breastfeeding	no	0	hospital	FAM0924	M2	NA	MF	NA	NA	no
+C03F092444I7	LLNEXT207081	LLNEXT206106	FAM0924	singleton	no	no	VG	BF	no	27	female	ever_BF	272	38.85714286	38w6d	clinical	FF/BF		vaginal	breastfeeding	no	0	hospital	FAM0924	M3	NA	MF	NA	NA	no
+CW2F092450B7	LLNEXT207081	LLNEXT206106	FAM0924	singleton	no	no	VG	BF	no	27	female	ever_BF	272	38.85714286	38w6d	clinical	FF/BF		vaginal	breastfeeding	no	0	hospital	FAM0924	W2	excl_BF	BF	NA	NA	no
+C01F092440D3	LLNEXT207081	LLNEXT206106	FAM0924	singleton	no	no	VG	BF	no	27	female	ever_BF	272	38.85714286	38w6d	clinical	FF/BF		vaginal	breastfeeding	no	0	hospital	FAM0924	M1	excl_BF	BF	NA	NA	no
+CW2F099248I6	LLNEXT207366	LLNEXT207342	FAM0992	singleton	no	no	VG	NA	NA	39	female	ever_BF	273	39	39w0d	clinical	BF		vaginal	NA	yes	NA	hospital	FAM0992	W2	NA	MF	NA	NA	no
+C02F114442D5	LLNEXT302144	LLNEXT301887	FAM1144	singleton	no	no	VG	FF	no	37	male	never_BF	279	39.85714286	39w6d	clinical	FF		vaginal	formula	no	2	hospital	FAM1144	M2	excl_FF	FF	NA	NA	never_BF
+C01F114440I6	LLNEXT302144	LLNEXT301887	FAM1144	singleton	no	no	VG	FF	no	37	male	never_BF	279	39.85714286	39w6d	clinical	FF		vaginal	formula	no	2	hospital	FAM1144	M1	excl_FF	FF	NA	NA	never_BF
+C03F114444B5	LLNEXT302144	LLNEXT301887	FAM1144	singleton	no	no	VG	FF	no	37	male	never_BF	279	39.85714286	39w6d	clinical	FF		vaginal	formula	no	2	hospital	FAM1144	M3	excl_FF	FF	NA	NA	never_BF
+CW2F114448E1	LLNEXT302144	LLNEXT301887	FAM1144	singleton	no	no	VG	FF	no	37	male	never_BF	279	39.85714286	39w6d	clinical	FF		vaginal	formula	no	2	hospital	FAM1144	W2	excl_FF	FF	NA	NA	never_BF
+C02F112242I6	LLNEXT302533	LLNEXT301619	FAM1122	singleton	no	no	VG	BF	no	42	female	ever_BF	267	38.14285714	38w1d	clinical	BF		vaginal	breastfeeding	NA	3	hospital	FAM1122	M2	excl_BF	BF	NA	NA	NA
+CW2F112250C2	LLNEXT302533	LLNEXT301619	FAM1122	singleton	no	no	VG	BF	no	42	female	ever_BF	267	38.14285714	38w1d	clinical	BF		vaginal	breastfeeding	NA	3	hospital	FAM1122	W2	excl_BF	BF	NA	NA	NA
+C01F112240D6	LLNEXT302533	LLNEXT301619	FAM1122	singleton	no	no	VG	BF	no	42	female	ever_BF	267	38.14285714	38w1d	clinical	BF		vaginal	breastfeeding	NA	3	hospital	FAM1122	M1	excl_BF	BF	NA	NA	NA
+C01F116240D7	LLNEXT303069	LLNEXT302132	FAM1162	singleton	no	no	VG	BF	NA	33	male	ever_BF	252	36	36w0d	clinical	NA	NA	vaginal	breastfeeding	no	0	hospital	FAM1162	M1	NA	MF	NA	NA	NA
+C02F116258C3	LLNEXT303069	LLNEXT302132	FAM1162	singleton	no	no	VG	BF	NA	33	male	ever_BF	252	36	36w0d	clinical	NA	NA	vaginal	breastfeeding	no	0	hospital	FAM1162	M2	NA	NA	NA	NA	NA
+CW2F118248I5	LLNEXT303070	LLNEXT302831	FAM1182	singleton	no	no	VG	NA	NA	33	male	ever_BF	284	40.57142857	40w4d	clinical	BF		NA	NA	no	NA	hospital	FAM1182	W2	excl_BF	BF	NA	NA	NA
+CW2F124458D1	LLNEXT304062	LLNEXT303926	FAM1244	singleton	sibling_1	no	VG	NA	no	25	female	ever_BF	264	37.71428571	37w5d	clinical	FF		vaginal	NA	no	0	hospital	FAM1244	W2	NA	MF	NA	NA	NA
+CW2F129948H3	LLNEXT305625	LLNEXT304815	FAM1299	singleton	no	no	VG	BF	NA	35	male	ever_BF	284	40.57142857	40w4d	clinical	FF		vaginal	breastfeeding	no	1	hospital	FAM1299	W2	NA	MF	NA	NA	NA
+CW2F136557F8	LLNEXT306307	LLNEXT306290	FAM1365	singleton	no	no	VG	BF	NA	32	male	ever_BF	271	38.71428571	38w5d	clinical	BF		vaginal	breastfeeding	no	0	hospital	FAM1365	W2	excl_BF	BF	NA	NA	NA
+CW2F137359B8	LLNEXT306563	LLNEXT306393	FAM1373	singleton	no	no	CS	FF	NA	35	male	never_BF	271	38.71428571	38w5d	clinical	FF		emergency_ceasarian_section	formula	yes	0	hospital	FAM1373	W2	excl_FF	FF	NA	NA	never_BF
+C01F137859D5	LLNEXT306836	LLNEXT306496	FAM1378	singleton	no	no	VG	BF	NA	30	male	ever_BF	270	38.57142857	38w4d	clinical	FF		vaginal	breastfeeding	no	NA	hospital	FAM1378	M1	NA	MF	NA	NA	NA
+C03F137859D3	LLNEXT306836	LLNEXT306496	FAM1378	singleton	no	no	VG	BF	NA	30	male	ever_BF	270	38.57142857	38w4d	clinical	FF		vaginal	breastfeeding	no	NA	hospital	FAM1378	M3	excl_FF	FF	NA	NA	NA
+C02F137859C9	LLNEXT306836	LLNEXT306496	FAM1378	singleton	no	no	VG	BF	NA	30	male	ever_BF	270	38.57142857	38w4d	clinical	FF		vaginal	breastfeeding	no	NA	hospital	FAM1378	M2	NA	MF	NA	NA	NA
+CW2F137849C1	LLNEXT306836	LLNEXT306496	FAM1378	singleton	no	no	VG	BF	NA	30	male	ever_BF	270	38.57142857	38w4d	clinical	FF		vaginal	breastfeeding	no	NA	hospital	FAM1378	W2	NA	MF	NA	NA	NA
