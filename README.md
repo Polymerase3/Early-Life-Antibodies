@@ -5,7 +5,7 @@
 
 **R analyses of Lifelines mother-baby PhIP‑Seq cohorts**
 
-Analysis pipelines for Lifelines infants and mothers (serum & breast‑milk). Alpha & beta diversity, t‑SNEs, visualisations, GLMMs and reproducible workflows driven by the development version of the `phiper` package .
+Analysis pipelines for Lifelines infants and mothers (serum & breast‑milk). Alpha & beta diversity, t‑SNEs, visualisations, GLMMs and reproducible workflows driven by the development version of the `phiper` package.
 
 `phiper` (development): https://github.com/Polymerase3/phiper
 
